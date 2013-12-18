@@ -7,8 +7,9 @@ Giott-o-matic is a rescue robot that follows a white line and autonomously detec
 The source code collects the line-follower algorithm (a fuzzy controller), and the procedure to extinguish the fire (via infrared sensors and a nebulizer).
 
 <p align="center">
-<img src="http://www.filippozanella.com/wp-content/uploads/2013/12/giottomatic_robot.png" width="30%"/>
-<img src="http://www.filippozanella.com/wp-content/uploads/2013/12/giottomatic_team.png" width="60%"/>
+<img src="http://www.filippozanella.com/wp-content/uploads/github/giottomatic_robot.jpg" width="30%"/>
+<img src="http://www.filippozanella.com/wp-content/uploads/github/giottomatic_prize.jpg" width="48%"/>
+<img src="http://www.filippozanella.com/wp-content/uploads/github/giottomatic_team.jpg" width="70%"/>
 </p>
 
 <p align="center">
